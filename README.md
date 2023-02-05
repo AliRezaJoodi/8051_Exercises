@@ -10,6 +10,7 @@ I'm uploading my personal projects on the repository.
 |Title|Bascom8051|mikroC for 8051|Keil C51|
 |:----|:--------:|:-------------:|:------:|
 |[ADC_ExternalADC_ADC0804](ADC_ExternalADC_ADC0804)|Y|-|-|
+|[Display_7Segment_1Digit](Display_7Segment_1Digit)|Y|-|-|
 |[Display_LCD](Display_LCD)|Y|Y|-|
 |[Sensor_Thermometer_LM35](Sensor_Thermometer_LM35)|Y|-|-|
 
