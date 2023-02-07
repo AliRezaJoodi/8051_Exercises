@@ -5,6 +5,7 @@ A repository for my personal exercises
 ![](Display_LCD/Simulate/Album.png)
 ![](ADC_ExternalADC_ADC0804/Simulate/Album.png)
 ![](Sensor_Thermometer_LM35/Simulate/Album.png)
+![](UART_SoftwareUART/Simulate/Album.png)
 
 ![](Display_GLCD_KS0108/Simulate/Album.png)
 
@@ -17,4 +18,5 @@ A repository for my personal exercises
 |[Display_GLCD_KS0108](Display_GLCD_KS0108)|-|Y|-|
 |[Display_LCD](Display_LCD)|Y|Y|-|
 |[Sensor_Thermometer_LM35](Sensor_Thermometer_LM35)|Y|-|-|
+|[UART_SoftwareUART](UART_SoftwareUART)|Y|-|-|
 
